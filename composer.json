@@ -1,16 +1,16 @@
 {
-    "name": "ccovey/odbc-driver",
+    "name": "sandicliffemotorgroup/odbc-driver",
     "description": "",
     "authors": [
         {
-            "name": "Cody Covey",
-            "email": "ccovey14@gmail.com"
+            "name": "Daniel Twigg",
+            "email": "daniel.twigg@sandicliffe.co.uk"
         }
     ],
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "4.1.x",
-        "illuminate/database": "4.1.x",
+        "illuminate/support": "4.*",
+        "illuminate/database": "4.*",
         "ext-pdo_odbc": "*"
     },
     "require-dev": {
